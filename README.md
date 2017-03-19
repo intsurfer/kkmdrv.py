@@ -16,4 +16,4 @@ CHANGELOG
           1745145
           Now work with fload same as string
 
-  0.05    add new error's descriptions NVG
+  0.05    add new error's descriptions (intsurfer)
